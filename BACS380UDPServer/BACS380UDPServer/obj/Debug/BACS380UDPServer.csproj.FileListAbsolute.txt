@@ -8,3 +8,13 @@ C:\Users\vand2653\source\repos\BACS380UDPServer\BACS380UDPServer\bin\Debug\BACS3
 C:\Users\vand2653\source\repos\BACS380UDPServer\BACS380UDPServer\bin\Debug\BACS380UDPServer.pdb
 C:\Users\vand2653\source\repos\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.exe
 C:\Users\vand2653\source\repos\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.pdb
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\bin\Debug\BACS380UDPServer.exe.config
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\bin\Debug\BACS380UDPServer.exe
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\bin\Debug\BACS380UDPServer.pdb
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.csprojAssemblyReference.cache
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.frmServer.resources
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.Properties.Resources.resources
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.csproj.GenerateResource.cache
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.exe
+C:\Users\vand2653\Documents\bacs380\BACS380UDPServer\BACS380UDPServer\obj\Debug\BACS380UDPServer.pdb

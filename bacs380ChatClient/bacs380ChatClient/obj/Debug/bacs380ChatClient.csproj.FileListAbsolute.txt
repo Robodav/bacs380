@@ -8,3 +8,13 @@ C:\Users\vand2653\source\repos\bacs380ChatClient\bacs380ChatClient\obj\Debug\bac
 C:\Users\vand2653\source\repos\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.csproj.CoreCompileInputs.cache
 C:\Users\vand2653\source\repos\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.exe
 C:\Users\vand2653\source\repos\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.pdb
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\bin\Debug\bacs380ChatClient.exe.config
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\bin\Debug\bacs380ChatClient.exe
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\bin\Debug\bacs380ChatClient.pdb
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.csprojAssemblyReference.cache
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.frmClient.resources
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.Properties.Resources.resources
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.csproj.GenerateResource.cache
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.exe
+C:\Users\vand2653\Documents\bacs380\bacs380ChatClient\bacs380ChatClient\obj\Debug\bacs380ChatClient.pdb
